@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422385345426",
+    "firebase_url": "https://eventdatabasekim.firebaseio.com",
+    "project_id": "eventdatabasekim",
+    "storage_bucket": "eventdatabasekim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422385345426:android:610855f36abca63e07974b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422385345426-mih9ae36mbokpd6kradeab2f92r9mv2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdBud1trqu9VRKoYhhVHU3pZYhO0FUuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422385345426-mih9ae36mbokpd6kradeab2f92r9mv2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
